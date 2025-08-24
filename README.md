@@ -25,7 +25,7 @@ If you want to connect with me, the best way is usually through <a href="https:/
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dngback&show_icons=true&locale=en" alt="dngback" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dngback)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
